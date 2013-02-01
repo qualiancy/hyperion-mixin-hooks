@@ -1,6 +1,6 @@
 {
     "name": "hyperion-mixin-hooks"
-  , "version": "0.0.0"
+  , "version": "0.0.1"
   , "description": "Hooks mixin for Hyperion."
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"
