@@ -5,11 +5,14 @@
   , "description": "Hooks mixin for Hyperion."
   , "license": "MIT"
   , "keywords": [
+        "hyperion"
     ]
   , "main": "lib/hooks.js"
   , "scripts": [
         "lib/hooks.js"
     ]
-  , "dependencies": {}
+  , "dependencies": {
+        "qualiancy/tea-extend": "0.2.0"
+    }
   , "development": {}
 }

@@ -5,6 +5,7 @@
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"
   , "keywords": [
+        "hyperion"
     ]
   , "repository": {
         "type": "git"
@@ -18,10 +19,14 @@
       "test": "make test"
     }
   , "dependencies": {
+        "tea-extend": "0.2.0"
     }
   , "devDependencies": {
         "chai": "*"
+      , "chai-http": "*"
+      , "chai-spies": "*"
       , "component": "*"
+      , "hyperion": "*"
       , "mocha": "*"
       , "mocha-phantomjs": "*"
     }
